@@ -1,2 +1,8 @@
 # Web-Exploitation-Scripts
-Various scripts for web exploitation and for deployment of docker applications
+
+## DVWA
+
+one liner
+```bash
+git clone https://github.com/Lavender-exe/Web-Exploitation-Scripts && bash Web-Exploitation-Scripts/dvwa_install.sh
+```
