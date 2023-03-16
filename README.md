@@ -1,6 +1,6 @@
 # Web Application Security Scripts
 
-Some quick deploy scripts for vulnerable web applications. <b>Tested on Kali Linux</b>
+Some quick deploy scripts for vulnerable web applications. <b>Tested on Kali Linux.</b>
 
 ## One Liners
 
