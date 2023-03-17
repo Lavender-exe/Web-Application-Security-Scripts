@@ -8,3 +8,11 @@ Some quick deploy scripts for vulnerable web applications. <b>Tested on Kali Lin
 ```bash
 git clone https://github.com/Lavender-exe/Web-Exploitation-Scripts && sudo bash Web-Exploitation-Scripts/dvwa_install.sh
 ```
+
+<b>You have to restart the terminal (Close and open it)
+
+```bash
+dvwa_host
+```
+
+The website will be hosted on `http://localhost:80/`
