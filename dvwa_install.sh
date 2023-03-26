@@ -2,7 +2,7 @@
 
 sudo apt update -y && apt upgrade -y && apt dist-upgrade -y
 echo "[!]Installing Docker"
-sudo apt-get install docker docker.io
+sudo apt-get install docker docker.io -y
 
 echo "[!]Pulling Docker Container"
 sudo docker pull vulnerables/web-dvwa
