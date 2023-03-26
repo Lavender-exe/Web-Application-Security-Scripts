@@ -8,11 +8,11 @@ echo "[!]Pulling Docker Container"
 git clone https://github.com/vavkamil/dvwp.git
 cd dvwp/
 sudo docker-compose up -d --build
-sudo docker-compose run --rm wp-cli install-wp
+sudo docker-compose run --rm -d wp-cli install-wp
 
 clear
 
 echo "[!!] Installation Complete!
 Go to your installation directory 'dvwp'
-run command 'sudo docker-compose up' 
+run command 'sudo docker-compose up -d' 
 Website is hosted on http://127.0.0.1:31337/"
