@@ -13,6 +13,7 @@ sudo docker-compose run --rm -d wp-cli install-wp
 clear
 
 echo "[!!] Installation Complete!
-Go to your installation directory 'dvwp'
-run command 'sudo docker-compose up -d' 
-Website is hosted on http://127.0.0.1:31337/"
+1. Restart your machine
+2. Go to your installation directory 'dvwp'
+3. run command 'sudo docker-compose up -d' 
+4. Website is hosted on http://127.0.0.1:31337/"
