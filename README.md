@@ -22,7 +22,7 @@ The website will be hosted on `http://localhost:80/`
 <a href="https://github.com/vavkamil/dvwp">Source</a>
 
 ```bash
-
+cd ~/Documents && sudo git clone https://github.com/Lavender-exe/Web-Application-Security-Scripts.git && sudo bash Web-Application-Security-Scripts/dvwp_install.sh
 ```
 
 #### Interface
